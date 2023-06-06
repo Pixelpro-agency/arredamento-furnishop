@@ -292,22 +292,22 @@ export const testimonial = {
   persons: [
     {
       avatar: <Avatar1Img />,
-      name: 'Josh Smith',
-      occupation: 'Manager of The New York Times',
+      name: 'Giorgio Loriente',
+      occupation: 'Manager',
       message:
         '“Hanno un tocco perfetto per creare qualcosa di così professionale, interessante e utile per molte persone”',
     },
     {
       avatar: <Avatar2Img />,
-      name: 'Brandi Johns',
-      occupation: 'Manager of The New York Times',
+      name: 'Gianna Astori',
+      occupation: 'Manager',
       message:
         '“Hanno un tocco perfetto per creare qualcosa di così professionale, interessante e utile per molte persone.”',
     },
     {
       avatar: <Avatar3Img />,
-      name: 'Paula Pfeffer',
-      occupation: 'Manager of The New York Times',
+      name: 'Gianna Astori',
+      occupation: 'Manager',
       message:
         '“Hanno un tocco perfetto per creare qualcosa di così professionale, interessante e utile per molte persone.”',
     },
